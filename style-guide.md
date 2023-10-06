@@ -35,6 +35,8 @@ The designs were created to the following widths:
 - Family: [Lexend Deca](https://fonts.google.com/specimen/Lexend+Deca)
 - Weights: 400
 
+### text
+
   Get insights that help your business grow.
 
   Discover the benefits of data analytics and make better decisions regarding revenue, customer 
